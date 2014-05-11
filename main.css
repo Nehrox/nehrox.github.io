@@ -1,6 +1,7 @@
 .headtitle {
     text-align: center;
-    margin: 0px;
+    margin-bottom: -50px;
+    margin-top: -125px;
     padding: 0px;
     width: auto;
     height: auto;
@@ -47,7 +48,10 @@
 }
 
 body {
-    background-image: url(1.jpg)
+    background-image: url(1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 25px;
 }
 
 .view {
